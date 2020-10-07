@@ -1,8 +1,8 @@
 {
   "@context": "dtmi:dtdl:context;2",
-  "@id": "dtmi:com:Example:Thermostat;1",
+  "@id": "dtmi:Espressif:SensorMagnetZ;1",
   "@type": "Interface",
-  "displayName": "Thermostat",
+  "displayName": "SensorMagnetZ",
   "description": "Reports current temperature and provides desired temperature control.",
   "contents": [
     {
