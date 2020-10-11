@@ -14,7 +14,7 @@ Related tools, samples, and specs can be found in the [Azure/iot-plugandplay-mod
 1. Validate the models locally using the [scripts to validate changes](#validate-files) section.
 1. Commit the changes locally and push to your fork.
 1. From your fork, create a PR that targets the `main` branch.
-1. Review the [PR requirements](pr-reqs.md)
+1. Review the [PR requirements](https://github.com/Azure/iot-plugandplay-models/blob/main/pr-reqs.md)
 
 The PR triggers a series of GitHub actions that will validate the new submitted interfaces, and make sure your PR satisfies all the checks.
 
