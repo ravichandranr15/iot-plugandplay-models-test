@@ -1,5 +1,4 @@
 # Azure/iot-plugandplay-models-test repository
-# Azure/iot-plugandplay-models-test repository
 >:exclamation: WARNING: This is a test environment, do not use for production.
 
 This repository includes [DTDL](https://aka.ms/dtdl) models that are made publicly available on [https://devicemodeltest.azureedge.net/](https://devicemodeltest.azureedge.net/). These models can be used to create Azure [IoT Plug and Play](https://aka.ms/iotpnp) solutions.
